@@ -27,11 +27,11 @@
     <a href="https://github.com/lenzencoders"><strong>Explore LENZ Encoders »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/lenzencoders/Encoders_Description">View the encoder descriptions and specifications</a>
+    <a href="https://github.com/lenzencoders/Encoders_Description/IRS-encoders_en_US.pdf">View the encoder descriptions and specifications</a>
     ·
-    <a href="https://github.com/lenzencoders/issues">Report Bug</a>
+    <a href="https://github.com/lenzencoders/Encoders_Description/issues">Report Bug</a>
     ·
-    <a href="https://github.com/lenzencoders/issues">Request Feature</a>
+    <a href="https://github.com/lenzencoders/Encoders_Description/issues">Request Feature</a>
   </p>
 </div>
 
@@ -100,7 +100,7 @@ LENZ encoders are insensitive to electromagnetic fields, permanent magnets, powe
 <!-- ADDITIONAL -->
 ### Additional functions
 
-Every encoder support additional functions:
+Every encoder supports additional functions:
 
 * Setting zero position
 * Setting the direction of rotation
@@ -117,7 +117,7 @@ Every encoder support additional functions:
 * Interfaces SSI, CAN, Modbus 
 * A custom OEM design 
 
-See the [open issues](https://github.com/lenzencoders/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/lenzencoders/Encoders_Description/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
