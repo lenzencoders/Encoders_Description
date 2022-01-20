@@ -27,7 +27,7 @@
     <a href="https://github.com/lenzencoders"><strong>Explore LENZ Encoders »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/lenzencoders/Encoders_Description/IRS-encoders_en_US.pdf">View the encoder descriptions and specifications</a>
+    <a href="https://github.com/lenzencoders/Encoders_Description/blob/main/IRS-encoders_en_US.pdf">View the encoder descriptions and specifications</a>
     ·
     <a href="https://github.com/lenzencoders/Encoders_Description/issues">Report Bug</a>
     ·
