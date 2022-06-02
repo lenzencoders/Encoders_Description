@@ -16,7 +16,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/lenzencoders">
-    <img src="images/LENZfavicon.png" alt="Logo" width="80" height="80">
+    <img src="images/LENZfavicon.png" alt="LENZ Logo" width="80" height="80">
   </a>
 
   <h3 align="center">LENZ Encoders</h3>
@@ -24,10 +24,12 @@
   <p align="center">
     Miniature high-quality precise angle encoders
     <br />
-    <a href="https://github.com/lenzencoders"><strong>Explore LENZ Encoders »</strong></a>
+    <a href="https://github.com/lenzencoders"><strong>Explore LENZ Encoders repositories »</strong></a>
+    <br />
+    <a href="https://lenzencoders.com"><strong>Visit LENZ Encoders website»</strong></a>
     <br />
     <br />
-    <a href="https://github.com/lenzencoders/Encoders_Description/blob/main/IRS-encoders_en_US.pdf">View the encoder descriptions and specifications</a>
+    <a href="https://github.com/lenzencoders/Encoders_Description/blob/main/IRS-encoders_en_US.pdf">View the encoders description and specifications</a>
     ·
     <a href="https://github.com/lenzencoders/Encoders_Description/issues">Report Bug</a>
     ·
@@ -38,26 +40,28 @@
 
 
 <!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-encoders">About The Project</a>
-      <ul>
-        <li><a href="#features">Features</a></li>
-        <li><a href="#applications-variety">Applications variety</a></li>
-        <li><a href="#additional-functions">Additional functions</a></li>
-      </ul>
-    </li>
-    <li><a href="#can-be-implemented-on-demand">Can be implemented on demand</a></li>
-     <li><a href="#contact">Contact</a></li>
-  </ol>
-</details>
+
+<summary>Table of Contents</summary>
+<ol>
+  <li>
+    <a href="#about-the-encoders">About the Encoders</a>
+    <ul>
+      <li><a href="#features">Features</a></li>
+      <li><a href="#applications-variety">Applications variety</a></li>
+      <li><a href="#additional-functions">Additional functions</a></li>
+    </ul>
+  </li>
+  <li><a href="#datasheets">Datasheets</a></li>
+  <li><a href="#3d-models">3D models</a></li>
+  <li><a href="#can-be-implemented-on-demand">Can be implemented on demand</a></li>
+    <li><a href="#contact">Contact</a></li>
+</ol>
+
 
 
 
 <!-- ABOUT THE ENCODERS -->
-## About The Encoders
+## About the Encoders
 LENZ Encoders are non-contact bearingless absolute angle encoders. Two printed circuit board design is perfect to match wide variety of control and measurements applications with limited space. Precise position data up to 22 bits and reliable fast feedback in harsh environments.
 
 LENZ encoders are inductive position sensors based on the physical principles of electromagnetic induction. Our encoders combine easy installation, low integration cost, high accuracy, stability over time, are extremely robust.
@@ -109,6 +113,36 @@ Every encoder supports additional functions:
 * External isolated temperature sensor
 
 
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
+
+## Datasheets:
+
+* [Datasheet in English](/IRS-encoders_en_EN.pdf)
+* [Datasheet in Russian](/IRS-encoders_ru_RU.pdf)
+
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
+## 3D models:
+|                     |  3D Model                                   |
+|---------------------|---------------------------------------------|
+| IRS-I34U2S1-17-5B3  |   [STEP](/CAD/IRS-I34US1-17-5B3.stp)        |
+| IRS-I50U3S1-17-5B3  |   [STEP](/CAD/IRS-I50U3S1-17-5B3.stp)       |
+| IRS-I60U3S1-17-5B3  |   to be added...                            |
+| IRS-I70U4S1-18-5B3  |   to be added...                            |
+| IRS-I80U4S1-18-5B3  |   to be added...                            |
+| IRS-I90U4S1-18-5B3  |   [STEP](/CAD/IRS-I90U4S1-18-5B3.stp)       |
+| IRS-I100U4S1-18-5B3 |   to be added...                            |
+| IRS-I120U4S1-19-5B3 |   to be added...                            |
+| IRS-I150U5S1-19-5B3 |   to be added...                            |
+
+
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
 
 ## Can be implemented on demand
 
@@ -126,7 +160,8 @@ See the [open issues](https://github.com/lenzencoders/Encoders_Description/issue
 <!-- CONTACT -->
 ## Contact
 
-LENZ Encoders - info@lenzencoders.com
+LENZ Encoders — info@lenzencoders.com \
+Website — https://lenzencoders.com
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
