@@ -129,12 +129,12 @@ Every encoder supports additional functions:
 ## 3D models:
 |                     |  3D Model                                   |
 |---------------------|---------------------------------------------|
-| IRS-I34U2S1-17-5B3  |   [STEP](/CAD/IRS-I34US1-17-5B3.stp)        |
-| IRS-I50U3S1-17-5B3  |   [STEP](/CAD/IRS-I50U3S1-17-5B3.stp)       |
+| IRS-I34U2S1-17-5B3  |   [STEP](https://github.com/lenzencoders/Encoders_Description/blob/main/CAD/IRS-I34US1-17-5B3.stp)        |
+| IRS-I50U3S1-17-5B3  |   [STEP](https://github.com/lenzencoders/Encoders_Description/blob/main/CAD/IRS-I50U3S1-17-5B3.stp)       |
 | IRS-I60U3S1-17-5B3  |   to be added...                            |
 | IRS-I70U4S1-18-5B3  |   to be added...                            |
 | IRS-I80U4S1-18-5B3  |   to be added...                            |
-| IRS-I90U4S1-18-5B3  |   [STEP](/CAD/IRS-I90U4S1-18-5B3.stp)       |
+| IRS-I90U4S1-18-5B3  |   [STEP](https://github.com/lenzencoders/Encoders_Description/blob/main/CAD/IRS-I90U4S1-18-5B3.stp)       |
 | IRS-I100U4S1-18-5B3 |   to be added...                            |
 | IRS-I120U4S1-19-5B3 |   to be added...                            |
 | IRS-I150U5S1-19-5B3 |   to be added...                            |
