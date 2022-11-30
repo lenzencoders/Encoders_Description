@@ -119,7 +119,7 @@ Every encoder supports additional functions:
 
 ## Datasheets:
 
-* [Datasheet in English](/IRS-encoders_en_EN.pdf)
+* [Datasheet in English](/IRS-encoders_en_US.pdf)
 * [Datasheet in Russian](/IRS-encoders_ru_RU.pdf)
 
 
@@ -127,18 +127,20 @@ Every encoder supports additional functions:
 
 
 ## 3D models:
-|                     |  3D Model                                   |
-|---------------------|---------------------------------------------|
-| IRS-I34U2S1-17-5B3  |   [STEP](https://github.com/lenzencoders/Encoders_Description/blob/main/CAD/IRS-I34U2S1-17-5B3.stp)        |
-| IRS-I50U3S1-17-5B3  |   [STEP](https://github.com/lenzencoders/Encoders_Description/blob/main/CAD/IRS-I50U3S1-17-5B3.stp)       |
-| IRS-I60U3S1-17-5B3  |   to be added...                            |
-| IRS-I70U4S1-18-5B3  |   to be added...                            |
-| IRS-I80U4S1-18-5B3  |   to be added...                            |
-| IRS-I90U4S1-18-5B3  |   [STEP](https://github.com/lenzencoders/Encoders_Description/blob/main/CAD/IRS-I90U4S1-18-5B3.stp)       |
-| IRS-I100U4S1-18-5B3 |   to be added...                            |
-| IRS-I120U4S1-19-5B3 |   to be added...                            |
-| IRS-I150U5S1-19-5B3 |   to be added...                            |
+|                                 |  3D Model                                   |
+|---------------------------------|---------------------------------------------|
+| IRS-I34U2S1-17-5B3              |   [STEP](https://github.com/lenzencoders/Encoders_Description/blob/main/CAD/IRS-I34U2S1-17-5B3.stp)   |
+| IRS-I34U2S1-17-5B4 (multiturn)  |   [STEP](https://github.com/lenzencoders/Encoders_Description/blob/main/CAD/IRS-I34U2S1-17-5B4.stp)   |
+| IRS-I50U3S1-17-5B3              |   [STEP](https://github.com/lenzencoders/Encoders_Description/blob/main/CAD/IRS-I50U3S1-17-5B3.stp)   |
+| IRS-I60U3S1-17-5B3              |   to be added...                            |
+| IRS-I70U4S1-18-5B3              |   [STEP](https://github.com/lenzencoders/Encoders_Description/blob/main/CAD/IRS-I70U4S1-18-5B3.stp)   |
+| IRS-I80U4S1-18-5B3              |   to be added...                            |
+| IRS-I90U4S1-18-5B3              |   [STEP](https://github.com/lenzencoders/Encoders_Description/blob/main/CAD/IRS-I90U4S1-18-5B3.stp)   |
+| IRS-I100U4S1-18-5B3             |   to be added...                            |
+| IRS-I120U4S1-19-5B3             |   to be added...                            |
+| IRS-I150U5S1-19-5B3             |   to be added...                            |
 
+[All 3D models in one ZIP archive](/CAD/LENZ%20Encoders%20STEP%203D.zip)
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
