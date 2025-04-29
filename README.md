@@ -29,8 +29,10 @@
     <a href="https://lenzencoders.com"><strong>Visit LENZ Encoders website»</strong></a>
     <br />
     <br />
-    <a href="https://github.com/lenzencoders/Encoders_Description/blob/main/IRS-encoders_en_US.pdf">View the encoders description and specifications</a>
+    <a href="https://github.com/lenzencoders/Encoders_Description/blob/main/IRS-encoders_en_US.pdf">IRS series</a>
     ·
+    <a href="https://github.com/lenzencoders/Encoders_Description/blob/main/ACTIS_LENZ_Encoders_en_US.pdf">ACTIS series (NEW)</a>
+    .
     <a href="https://github.com/lenzencoders/Encoders_Description/issues">Report Bug</a>
     ·
     <a href="https://github.com/lenzencoders/Encoders_Description/issues">Request Feature</a>
@@ -51,7 +53,7 @@
       <li><a href="#additional-functions">Additional functions</a></li>
     </ul>
   </li>
-  <li><a href="#datasheets">Datasheets</a></li>
+  <li><a href="#datasheets">Datasheets of IRS and ACTIS series</a></li>
   <li><a href="#3d-models">3D models</a></li>
   <li><a href="#can-be-implemented-on-demand">Can be implemented on demand</a></li>
     <li><a href="#contact">Contact</a></li>
@@ -119,8 +121,10 @@ Every encoder supports additional functions:
 
 ## Datasheets:
 
-* [Datasheet in English](/IRS-encoders_en_US.pdf)
-* [Datasheet in Russian](/IRS-encoders_ru_RU.pdf)
+* [IRS series datasheet in English](/IRS-encoders_en_US.pdf)
+* [IRS series datasheet in Russian](/IRS-encoders_ru_RU.pdf)
+* [ACTIS series datasheet in English *(NEW)*](/ACTIS_LENZ_Encoders_en_US.pdf)
+* [ACTIS series datasheet in Russian *(NEW)*](/ACTIS_LENZ_Encoders_ru_RU.pdf)
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
