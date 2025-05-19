@@ -64,7 +64,7 @@
 
 <!-- ABOUT THE ENCODERS -->
 ## About the Encoders
-LENZ Encoders are non-contact bearingless absolute angle encoders. Two printed circuit board design is perfect to match wide variety of control and measurements applications with limited space. Precise position data up to 22 bits and reliable fast feedback in harsh environments.
+LENZ Encoders are non-contact bearingless absolute angle encoders. Two parts design is perfect to match wide variety of control and measurements applications with limited space. Precise position data up to 22 bits and reliable fast feedback in harsh environments.
 
 LENZ encoders are inductive position sensors based on the physical principles of electromagnetic induction. Our encoders combine easy installation, low integration cost, high accuracy, stability over time, are extremely robust.
 
@@ -134,12 +134,17 @@ Every encoder supports additional functions:
 |                                 |  3D Model                                   |
 |---------------------------------|---------------------------------------------|
 | IRS-I34U2S1-17-5B3              |   [STEP](https://github.com/lenzencoders/Encoders_Description/blob/main/CAD/IRS-I34U2S1-17-5B3.stp)   |
-| IRS-I34U2S1-17-5B4 (multiturn)  |   [STEP](https://github.com/lenzencoders/Encoders_Description/blob/main/CAD/IRS-I34U2S1-17-5B4.stp)   |
 | IRS-I50U3S1-17-5B3              |   [STEP](https://github.com/lenzencoders/Encoders_Description/blob/main/CAD/IRS-I50U3S1-17-5B3.stp)   |
-| IRS-I60U3S1-17-5B3              |   [STEP](https://github.com/lenzencoders/Encoders_Description/blob/main/CAD/IRS-I60U3S1-17-5B3.stp)                            |
+| IRS-I60U3S1-17-5B3              |   [STEP](https://github.com/lenzencoders/Encoders_Description/blob/main/CAD/IRS-I60U3S1-17-5B3.stp)   |
 | IRS-I70U4S1-18-5B3              |   [STEP](https://github.com/lenzencoders/Encoders_Description/blob/main/CAD/IRS-I70U4S1-18-5B3.stp)   |
 | IRS-I80U4S1-18-5B3              |   [STEP](https://github.com/lenzencoders/Encoders_Description/blob/main/CAD/IRS-I80U4S1-18-5B3.stp)   |
 | IRS-I90U4S1-18-5B3              |   [STEP](https://github.com/lenzencoders/Encoders_Description/blob/main/CAD/IRS-I90U4S1-18-5B3.stp)   |
+| SAB039 with SAR039 *(NEW)*      |   [STEP](https://github.com/lenzencoders/Encoders_Description/blob/main/CAD/SAB039%2BSAR039.zip)      |
+| SAB049 with SAR049 *(NEW)*      |   [STEP](https://github.com/lenzencoders/Encoders_Description/blob/main/CAD/SAB049%2BSAR049.zip)      |
+| SAB064 with SAR064 *(NEW)*      |   [STEP](https://github.com/lenzencoders/Encoders_Description/blob/main/CAD/SAB064%2BSAR064.zip)      |
+| SAB080 with SAR080 *(NEW)*      |   [STEP](https://github.com/lenzencoders/Encoders_Description/blob/main/CAD/SAB080%2BSAR080.zip)      |
+| SAB115 with SAR115 *(NEW)*      |   [STEP](https://github.com/lenzencoders/Encoders_Description/blob/main/CAD/SAB115%2BSAR115.zip)      |
+| SAB150 with SAR150 *(NEW)*      |   [STEP](https://github.com/lenzencoders/Encoders_Description/blob/main/CAD/SAB150%2BSAR150.zip)      |
 
 
 [All 3D models in one ZIP archive](/CAD/LENZ%20Encoders%20STEP%203D.zip)
